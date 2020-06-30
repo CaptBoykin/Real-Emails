@@ -15,3 +15,9 @@ This script will take the input from an email file, and output it with replaced 
 2. Create a file named: email.txt and insert your email into it.
 3. Run the script: **python RealEmails.py**
 4. Observe your new email in email-fixed.txt
+
+# Before!
+![image](https://github.com/planetxort/Real-Emails/blob/master/1.png)
+
+# After!
+![image](https://github.com/planetxort/Real-Emails/blob/master/2.png)
