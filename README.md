@@ -2,6 +2,7 @@
 **Created By: John Jackson (Twitter:@johnjhacking)**
 ----------------------------------------------------
 *This repository will help you fix your emails, reflecting how you really feel.*
+
 **Warning: I will not be liable for any reputational damage done. This script is meant to be used for fun, and not to harass, encourage hate, etc**
 
 
