@@ -5,6 +5,9 @@
 
 **Warning: I will not be liable for any reputational damage done. This script is meant to be used for fun, and not to harass, encourage hate, etc**
 
+**Special thanks to the Contributors:**
+
+pr0digal - Dictionary Enhancements
 
 # Background:
 How many times have you looked at an email and said: damn, when did I get this nice? 
